@@ -3,7 +3,7 @@ My name's Adem and I'm a Ruby on Rails developer and cyber security engineer, us
 - 🔭 I’m currently working on alpha-blog
 - 🌱 I’m currently learning Ruby on Rails and react
 - 👯 I’m looking to collaborate on rails applications with Javascript frameworks such as react
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with integration of react with rails
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: adem.mohamed@hotmail.fr
 - 😄 Pronouns: LAX
