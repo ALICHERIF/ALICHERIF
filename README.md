@@ -8,4 +8,4 @@ My name's Adem and I'm a Ruby on Rails developer and cyber security engineer, us
 - 📫 How to reach me: adem.mohamed@hotmail.fr
 - 😄 Pronouns: LAX
 - ⚡ Fun fact: nothing is complex when we can use debug LOL
-try to use always latest version ruby and rails it's will be easier especially with CI/CD
+- try to use always latest version ruby and rails it's will be easier especially with CI/CD
